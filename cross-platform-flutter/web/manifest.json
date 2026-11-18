@@ -1,6 +1,6 @@
 {
-    "name": "mello_flutter",
-    "short_name": "mello_flutter",
+    "name": "dashboard_coach",
+    "short_name": "dashboard_coach",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
